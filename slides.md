@@ -35,6 +35,7 @@ and [overleaf](https://www.overleaf.com)
 ## DAY 3
 
 ### 12:00 - 15:00 | Coding Tools
+- [Poetry](https://python-poetry.org)
 - [Visual Studio](https://visualstudio.microsoft.com) and [Cursor](https://www.cursor.com)
     - useful extensions
     - settings
@@ -49,7 +50,13 @@ and [overleaf](https://www.overleaf.com)
 ## DAY 4
 
 ### 12:00 - 15:00 | Coding: Advanced workflow
+- documentation
+    - [sphinx](https://www.sphinx-doc.org/en/master/usage/quickstart.html)
+    - [numpydoc](https://numpydoc.readthedocs.io/en/latest/install.html)
 - [pre-commit](https://pre-commit.com)
+    - [linter](https://flake8.pycqa.org/en/latest/)
+    - [formatter](https://flake8.pycqa.org/en/latest/internal/formatters.html)
+    - [mypy](https://realpython.com/python-type-checking/)
 - [pytest](https://realpython.com/pytest-python-testing/)
 - [pyenv](https://realpython.com/intro-to-pyenv/)
 
