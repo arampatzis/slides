@@ -11,7 +11,7 @@
 ---
 ## DAY 1
 
-### 12:00 - 15:00 | Presentation skills
+### 15:00 - 18:00 | Presentation skills
 - Organize your library with [Zotero](https://www.zotero.org)
 - [How to read a paper?](https://www.slideshare.net/slideshow/research-101-how-to-read-a-scientific-paper-1a7f/267166602)
 - How to present a paper?
