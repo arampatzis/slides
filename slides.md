@@ -11,7 +11,7 @@
 ---
 ## DAY 1
 
-### 15:00 - 18:00 | Presentation skills
+### 15:00 - 18:00 | A214 | Presentation skills
 - Organize your library with [Zotero](https://www.zotero.org)
 - [How to read a paper?](https://www.slideshare.net/slideshow/research-101-how-to-read-a-scientific-paper-1a7f/267166602)
 - How to present a paper?
@@ -20,7 +20,7 @@
 ---
 ## DAY 2
 
-### 12:00 - 15:00 | Presentation tools and version control
+### 12:00 - 15:00 | A214 | Presentation tools and version control
 
 - [reveal.js](https://revealjs.com/)
 - [git](https://realpython.com/python-git-github-intro/) ([oh my git!](https://ohmygit.org) game)
@@ -34,7 +34,7 @@ and [overleaf](https://www.overleaf.com)
 ---
 ## DAY 3
 
-### 12:00 - 15:00 | Coding Tools
+### 12:00 - 15:00 | A214 | Coding Tools
 - [Poetry](https://python-poetry.org)
 - [Visual Studio](https://visualstudio.microsoft.com) and [Cursor](https://www.cursor.com)
     - useful extensions
@@ -49,7 +49,7 @@ and [overleaf](https://www.overleaf.com)
 ---
 ## DAY 4
 
-### 12:00 - 15:00 | Coding: Advanced workflow
+### 12:00 - 15:00 | A214 | Coding: Advanced workflow
 - documentation
     - [sphinx](https://www.sphinx-doc.org/en/master/usage/quickstart.html)
     - [numpydoc](https://numpydoc.readthedocs.io/en/latest/install.html)
@@ -64,7 +64,7 @@ and [overleaf](https://www.overleaf.com)
 ---
 ## DAY 5
 
-### 12:00 - 14:00 | Hands on
+### 12:00 - 14:00 | A214 | Hands on
 
 - Create a Zotero account and start adding articles
 - Create a Github account
@@ -73,6 +73,6 @@ and [overleaf](https://www.overleaf.com)
 
 <div style="margin-top: 30px;"></div>
 
-### 14:00 - 15:00 | Personal Website
+### 14:00 - 15:00 | A214 | Personal Website
 
 Create your personal website with [HUGO](https://gohugo.io)
