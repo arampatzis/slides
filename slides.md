@@ -64,7 +64,13 @@ and [overleaf](https://www.overleaf.com)
 ---
 ## DAY 5
 
-### 12:00 - 14:00 | A214 | Hands on
+### 12:00 - 12:30 | A214 | Hands on
+
+- Communication using [zulip](https://zulip.com)
+
+<div style="margin-top: 30px;"></div>
+
+### 12:30 - 14:00 | A214 | Hands on
 
 - Create a Zotero account and start adding articles
 - Create a Github account
