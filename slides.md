@@ -1,26 +1,35 @@
 
-# 🛠️ Training Days
+# Training Days
 
 ### Must-Have Skills for Your Master Thesis
 
-#### Georgios Arampatzis · 2025
+#### Georgios Arampatzis
 
-> *"Master the tools, shape your research."*
+<div style="margin-top: 50px;"></div>
+
+### 📅 30 June - 4 July 2025
+### 📍 A214 - Mathematics Building
+
+<div style="margin-top: 50px;"></div>
+
+> *Master the tools, shape your research.*
 
 
 ---
 ## DAY 1
 
-### 15:00 - 18:00 | A214 | Presentation skills
+### 15:00 - 18:00 | Presentation skills
 - Organize your library with [Zotero](https://www.zotero.org)
 - [How to read a paper?](https://www.slideshare.net/slideshow/research-101-how-to-read-a-scientific-paper-1a7f/267166602)
 - How to present a paper?
+- How to write a thesis?
+    - Use the [thesis-uoc class](https://github.com/arampatzis/thesis-template)
 
 
 ---
 ## DAY 2
 
-### 12:00 - 15:00 | A214 | Presentation tools and version control
+### 12:00 - 15:00 | Presentation tools and version control
 
 - [reveal.js](https://revealjs.com/)
 - [git](https://realpython.com/python-git-github-intro/) ([oh my git!](https://ohmygit.org) game)
@@ -34,7 +43,7 @@ and [overleaf](https://www.overleaf.com)
 ---
 ## DAY 3
 
-### 12:00 - 15:00 | A214 | Coding Tools
+### 12:00 - 15:00 | Coding Tools
 - [Poetry](https://python-poetry.org)
 - [Visual Studio](https://visualstudio.microsoft.com) and [Cursor](https://www.cursor.com)
     - useful extensions
@@ -49,7 +58,7 @@ and [overleaf](https://www.overleaf.com)
 ---
 ## DAY 4
 
-### 12:00 - 15:00 | A214 | Coding: Advanced workflow
+### 12:00 - 14:00 | Coding: Advanced workflow
 - documentation
     - [sphinx](https://www.sphinx-doc.org/en/master/usage/quickstart.html)
     - [numpydoc](https://numpydoc.readthedocs.io/en/latest/install.html)
@@ -61,16 +70,22 @@ and [overleaf](https://www.overleaf.com)
 - [pyenv](https://realpython.com/intro-to-pyenv/)
 
 
+### 14:00 - 15:00 | A complete Python package
+
+- [https://pypi.org/project/randex/](https://pypi.org/project/randex/)
+
+
+
 ---
 ## DAY 5
 
-### 12:00 - 12:30 | A214 | Hands on
+### 12:00 - 12:30 | Hands on
 
 - Communication using [zulip](https://zulip.com)
 
 <div style="margin-top: 30px;"></div>
 
-### 12:30 - 14:00 | A214 | Hands on
+### 12:30 - 14:00 | Hands on
 
 - Create a Zotero account and start adding articles
 - Create a Github account
@@ -79,6 +94,6 @@ and [overleaf](https://www.overleaf.com)
 
 <div style="margin-top: 30px;"></div>
 
-### 14:00 - 15:00 | A214 | Personal Website
+### 14:00 - 15:00 | Personal Website
 
 Create your personal website with [HUGO](https://gohugo.io)
