@@ -25,6 +25,29 @@
 - How to write a thesis?
     - Use the [thesis-uoc class](https://github.com/arampatzis/thesis-template)
 
+--
+## Communication
+
+- Mail
+- [Zulip](https://zulip.com)
+    - Organization: [teach-the-machines](https://teach-the-machines.zulipchat.com)
+    - Publlic channel for all to all communication
+    - Private channels for one-to-one communication
+
+--
+## Zotero
+- Open an account in [zotero](https://www.zotero.org) with your UOC email
+- Share your email in the Zotero chat
+
+--
+## Thesis template
+
+- Open account in [overleaf](https://www.overleaf.com)
+- Create a new project and name it `YOUR-LASTNAME-thesis`
+- Upload the [thesis-uoc class](https://github.com/arampatzis/thesis-template) 
+to the overleaf project
+- Share it with me (arampatzis@uoc.gr)
+
 
 ---
 ## DAY 2
