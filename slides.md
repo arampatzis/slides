@@ -23,7 +23,6 @@
 - [How to read a paper?](https://www.slideshare.net/slideshow/research-101-how-to-read-a-scientific-paper-1a7f/267166602)
 - How to present a paper?
 - How to write a thesis?
-    - Use the [thesis-uoc class](https://github.com/arampatzis/thesis-template)
 
 --
 ## Communication
@@ -38,30 +37,86 @@
 ## Zotero
 - Open an account in [zotero](https://www.zotero.org) with your UOC email
 - Share your email in the Zotero chat
+- Create a folder under the library with your last name
+- Add your articles to the folder
 
 --
 ## Thesis template
 
 - Open account in [overleaf](https://www.overleaf.com)
-- Create a new project and name it `YOUR-LASTNAME-thesis`
+- Create a new project and name it `Your-lastname-thesis`
 - Upload the [thesis-uoc class](https://github.com/arampatzis/thesis-template) 
 to the overleaf project
-- Share it with me (arampatzis@uoc.gr)
+- Share it with me (georgios.arampatzis@uoc.gr)
 
 
 ---
 ## DAY 2
+<div style="margin-top: 20px;"></div>
 
-### 12:00 - 15:00 | Presentation tools and version control
+### 12:00 - 13:00 | Remote server
 
-- [reveal.js](https://revealjs.com/)
+- SSH into a remote Linux server without password
+- bash and customizations ([my customizations](https://github.com/arampatzis/shell))
+- [pyenv](https://github.com/pyenv/pyenv?tab=readme-ov-file#a-getting-pyenv)
+
+<div style="margin-top: 50px;"></div>
+
+### 13:00 - 14:00 | Git and Github
 - [git](https://realpython.com/python-git-github-intro/) ([oh my git!](https://ohmygit.org) game)
 - [github](https://realpython.com/python-git-github-intro/)
 - [git-lfs](https://git-lfs.com)
-- [github pages](https://docs.github.com/en/pages/quickstart)
-- [latex](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) 
-and [overleaf](https://www.overleaf.com)
 
+<div style="margin-top: 50px;"></div>
+
+### 14:00 - 15:00 | Presentation tools and version control
+
+- [reveal.js](https://revealjs.com/)
+- [github pages](https://docs.github.com/en/pages/quickstart)
+
+
+--
+## Install pyenv
+
+- Install libraries
+```bash
+sudo apt update
+sudo apt install -y \
+    build-essential libssl-dev zlib1g-dev libbz2-dev \
+    libreadline-dev libsqlite3-dev libncursesw5-dev \
+    xz-utils liblzma-dev libffi-dev uuid-dev \
+    libatlas-base-dev gfortran libopenblas-dev liblapack-dev \
+    libjpeg-dev libpng-dev libfreetype6-dev \
+    libxml2-dev libxslt1-dev libhdf5-dev libyaml-dev \
+    libprotobuf-dev protobuf-compiler libopencv-dev libboost-all-dev \
+    libgl1 libglu1-mesa libegl1 libgles2 \
+    libxrandr-dev libxinerama-dev libxcursor-dev libxi-dev \
+    tk-dev libxft-dev \
+    libcurl4-openssl-dev libevent-dev \
+    git curl wget unzip zip autoconf automake libtool pkg-config
+```
+
+- Install pyenv
+```bash
+curl -fsSL https://pyenv.run | bash
+```
+
+- Add to your `.bashrc`
+```bash
+export PYENV_ROOT="$HOME/.pyenv"
+command -v pyenv >/dev/null || path_prepend "$PYENV_ROOT/bin"
+eval "$(pyenv init -)"
+```
+
+- Install python
+```bash
+pyenv install 3.11.13
+```
+
+- Set the global python version
+```bash
+pyenv global 3.11.13
+```
 
 ---
 ## DAY 3
