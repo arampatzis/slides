@@ -1,3 +1,4 @@
+<!-- Slides for the training days -->
 
 # Training Days
 
@@ -63,6 +64,7 @@ to the overleaf project
 <div style="margin-top: 50px;"></div>
 
 ### 13:00 - 14:00 | Git and Github
+
 - [git](https://realpython.com/python-git-github-intro/) ([oh my git!](https://ohmygit.org) game)
 - [github](https://realpython.com/python-git-github-intro/)
 - [git-lfs](https://git-lfs.com)
@@ -118,6 +120,7 @@ pyenv install 3.11.13
 pyenv global 3.11.13
 ```
 
+
 ---
 ## DAY 3
 
@@ -137,6 +140,7 @@ pyenv global 3.11.13
 ## DAY 4
 
 ### 12:00 - 14:00 | Coding: Advanced workflow
+
 - documentation
     - [sphinx](https://www.sphinx-doc.org/en/master/usage/quickstart.html)
     - [numpydoc](https://numpydoc.readthedocs.io/en/latest/install.html)
@@ -151,7 +155,6 @@ pyenv global 3.11.13
 ### 14:00 - 15:00 | A complete Python package
 
 - [https://pypi.org/project/randex/](https://pypi.org/project/randex/)
-
 
 
 ---
@@ -175,3 +178,7 @@ pyenv global 3.11.13
 ### 14:00 - 15:00 | Personal Website
 
 Create your personal website with [HUGO](https://gohugo.io)
+
+
+--
+# That's all folks!
